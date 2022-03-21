@@ -5,11 +5,7 @@ using namespace std;
 int main()
 {
   int n;
-  int b; //counter
-  int c;
-  int d;
-  int e;
-  int f;
+  int b; 
   int g;
   b=1;
   g = 1;
